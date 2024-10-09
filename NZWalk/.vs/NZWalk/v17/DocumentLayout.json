@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE96082-3D0B-4552-8CED-F252DC4BC495}|NZWalkAPI\\NZWalkAPI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalkapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE96082-3D0B-4552-8CED-F252DC4BC495}|NZWalkAPI\\NZWalkAPI.csproj|solutionrelative:nzwalkapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalks.ui\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalks.ui\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|c:\\users\\shmo561\\onedrive - hp inc\\project\\nzwalk\\nzwalks.ui\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3108E33F-CBC8-493B-8DA1-B578278D65EB}|NZWalks.UI\\NZWalks.UI.csproj|solutionrelative:nzwalks.ui\\models\\addregionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalkAPI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalkAPI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalkAPI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalkAPI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:00:31.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T01:45:05.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\Dto\\RegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:10:28.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRegionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "RelativeToolTip": "NZWalks.UI\\Models\\AddRegionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:10:07.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:05:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "RelativeToolTip": "NZWalks.UI\\Views\\Regions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T06:56:49.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\ShMo561\\OneDrive - HP Inc\\Project\\NZWalk\\NZWalks.UI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.UI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwG0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:56:18.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
